@@ -6,7 +6,7 @@ A proof of concept for developing a web application to coordinate catering from 
 
 # Hosting 
 
-Website is live at [foodcartcatering.com](www.foodcartcatering.com).
+Website is live at [foodcartcatering.com](http://www.foodcartcatering.com).
 
 # Project description
 
