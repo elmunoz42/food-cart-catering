@@ -4,6 +4,10 @@ A proof of concept for developing a web application to coordinate catering from 
 
 # Jay Freeman, Carlos Munoz Kampff, Clayton Collins, Benjamin T. Seaver, and David Quisenberry
 
+# Hosting 
+
+Website is live at [foodcartcatering.com](www.foodcartcatering.com).
+
 # Project description
 
 Three unique user stories:
